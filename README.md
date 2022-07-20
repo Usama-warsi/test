@@ -13,7 +13,7 @@ Python File Manual.yml
 bikeshare.py
 
 ### CSV Files
-[1] Chicago.csv [2] Newyork_City.csv [3] Washington.csv
+[1] Chicago.csv [2] New_York_City.csv [3] Washington.csv
 
 ### Credits
 -@SudKul (Udacity mentor) (https://github.com/udacity/pdsnd_github/commits?author=SudKul)
